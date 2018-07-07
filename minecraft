@@ -5,9 +5,10 @@
 ; 
 ; I've complimented this with setting the individual warp names to letters and
 ; numbers accessible by your left "WASD" hand. For example, to go home I press
-; the middle mouse button then "r" and the "back" button on my mouse. Extremely
-; quick, and much more comfortable. The other mouse button is if you miss your
-; desired key and want a more "neat" way of changing it.
+; the middle mouse button then "r" and the "back" button on my mouse.
+;
+; Extremely quick, and much more comfortable. The other mouse button is if you
+; miss your desired key and want a more "neat" way of changing it.
 
 CapsLock::LCtrl
 XButton1::Enter
