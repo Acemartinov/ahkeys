@@ -1,3 +1,3 @@
 # ahkeys
-### Here you'll find all of my AutoHotKey scripts
+I'll just put whatever autohotkey scripts I make, more for personal backup than showing off
 
