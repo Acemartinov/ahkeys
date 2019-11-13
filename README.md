@@ -1,3 +1,3 @@
 # ahkeys
-I'll just put whatever autohotkey scripts I make, more for personal backup than showing off
+I'll just upload whatever autohotkey scripts I make (that are good enough to be backed up here), more for personal backup than showing off
 
